@@ -1,2 +1,2 @@
-Este es un proyecto para Acamica, el tema principal es series de tiempo y se tratara de predecir el flujo vehicular para 2020
-En el proyecto 04 se trata de aplicar otros modelos que mejoren la prediccion
+Proyectos numeor 03 y 04 para acamica 
+Series de tiempo
